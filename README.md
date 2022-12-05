@@ -1,4 +1,12 @@
 # labEcommerce-backend
 
+### O que Funciona
 
-### Coloque as informações do seu projeto, o link da documentação e o link deploy
+Endpoints (createCharacter, deleteCharacter, getAllCharacters)
+
+### Autor
+Jucicrede Machado de Brito
+
+### Documentação do Postman
+
+https://documenter.getpostman.com/view/22372686/2s8YzMYR4t
